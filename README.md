@@ -8,7 +8,7 @@ AdMob (Google Inc.): https://policies.google.com/technologies/ads?hl=en <br>
 Firebase Analytics (Google Inc.): https://policies.google.com/privacy?hl=en <br>
 
 ## 2. Contact information
-https://docs.google.com/forms/d/e/1FAIpQLScwb0b--88KR5fELWJMjdp1gF-2JayxTUgZoKqW1dT073YUYg/viewform
+https://docs.google.com/forms/d/e/1FAIpQLSfulY5yMEX2D5nDHSd29zrSaMpZ7P0FpoYk6Z0Jpgt5YANLmw/viewform
 
 <br>
 <br>
@@ -23,7 +23,7 @@ AdMob（Google Inc.）: https://policies.google.com/technologies/ads?hl=ja <br>
 Firebase Analytics（Google Inc.）: https://policies.google.com/privacy?hl=ja <br>
 
 ## 2. お問い合わせ先
-https://docs.google.com/forms/d/e/1FAIpQLScwb0b--88KR5fELWJMjdp1gF-2JayxTUgZoKqW1dT073YUYg/viewform
+https://docs.google.com/forms/d/e/1FAIpQLSfulY5yMEX2D5nDHSd29zrSaMpZ7P0FpoYk6Z0Jpgt5YANLmw/viewform
 
 <br>
 <br>
@@ -38,4 +38,19 @@ AdMob (Google Inc.) : https://policies.google.com/technologies/ads?hl=fr <br>
 Firebase Analytics (Google Inc.) : https://policies.google.com/privacy?hl=fr <br>
 
 ## 2. Informations de contact
-https://docs.google.com/forms/d/e/1FAIpQLScwb0b--88KR5fELWJMjdp1gF-2JayxTUgZoKqW1dT073YUYg/viewform
+https://docs.google.com/forms/d/e/1FAIpQLSfulY5yMEX2D5nDHSd29zrSaMpZ7P0FpoYk6Z0Jpgt5YANLmw/viewform
+  
+<br>
+<br>
+
+# "微波炉时间计算器"的隐私政策
+
+## 1. 对用户信息的处理
+本应用程序使用谷歌AdMob进行广告服务，并使用谷歌Firebase Analytics进行使用分析。
+虽然他们获得广告ID用于广告投放，但我不会用它们来识别个人身份或用于其他目的。
+欲了解更多信息，请参见下面的隐私政策链接。<br>
+AdMob (Google Inc.): https://policies.google.com/technologies/ads?hl=zh <br>
+Firebase Analytics (Google Inc.): https://policies.google.com/privacy?hl=zh <br>
+
+## 2. Contact information
+https://docs.google.com/forms/d/e/1FAIpQLSfulY5yMEX2D5nDHSd29zrSaMpZ7P0FpoYk6Z0Jpgt5YANLmw/viewform
